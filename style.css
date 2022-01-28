@@ -1,15 +1,19 @@
 body {
-  background: #44AA44;
-  background-color: #44AA44;
+   
+    height: 100vh;
+    
+    background: linear-gradient(#3eadcf, #abe9cd);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#fff;
 }
 
 h1 {
-   font-family: Arial;
-   font-size: 3em;
+   
+   font-size: 2em;
 }
 
 p {
-   font-family Times New Roman;
+  
    font-size: 1.5em;
 }
 
